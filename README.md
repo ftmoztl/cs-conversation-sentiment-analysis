@@ -1,2 +1,2 @@
 # cs-conversation-sentiment-analysis
-Tp classify the sentiment of customer service conversations
+To classify the sentiment of customer service conversations
